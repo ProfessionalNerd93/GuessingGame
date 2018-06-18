@@ -19,7 +19,7 @@ public class GameActivity extends AppCompatActivity {
     private int numberOfGuesses = 0;
     public static final String winningNumber = "WINNING_NUMBER";
 
-//    TODO fix restarting game!!!
+//    Fix restarting game!!!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
